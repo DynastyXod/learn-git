@@ -1,5 +1,5 @@
 def func():
-    pass
+    return 0
 
 
 def func1():

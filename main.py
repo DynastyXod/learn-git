@@ -3,7 +3,7 @@ def func():
 
 
 def func1():
-    pass
+    return
 
 
 def func2():

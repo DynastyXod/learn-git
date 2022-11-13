@@ -7,4 +7,4 @@ def func1():
 
 
 def func2():
-    pass
+    return 0
